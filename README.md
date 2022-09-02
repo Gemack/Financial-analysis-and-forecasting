@@ -1,6 +1,7 @@
 # Stock Price Time Series Financial Analysis and Forecasting using Google Tensorflow
 
-My blog post on Neuron Network on Hashnode.
+
+[Check out my post on Neuron Network on Hashnode](https://emack.hashnode.dev/understanding-artificial-neuron-network)
 
 
 This notebook performs basic financial analysis on stock data of 
